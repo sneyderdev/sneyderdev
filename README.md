@@ -1,15 +1,47 @@
-![Header](https://github.com/sneyderdev/sneyderdev/blob/master/github-header.png?raw=true)
+![Header](https://raw.githubusercontent.com/sneyderdev/sneyderdev/master/github-header.png)
 
-📌 I’m a developer from Colombia who is mainly interested in web technologies, specially in **frontend development**.
+# Hello, world! <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="32" height="32" />
 
-## 🛠 My Stack
+Nice to meet you, I'm Sneyder Barreto and I'm a Software Developer from <img align="center" src="https://flagcdn.com/co.svg" width="16px" height="12px" alt="Colombia" /> Colombia with a focused career trajectory in web application development using modern tech stack.
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![Styled-components](https://img.shields.io/badge/Styled--components-000?style=for-the-badge&logo=styled-components) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+## 🔨 Technologies & Tools
 
-## 📊 My GitHub's Stats
+These are some of the technologies and tools I use to build apps:
 
-![Sneyder Barreto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true)
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+</a>
+<a href="https://graphql.org/">
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+</a>
+<a href="https://aws.amazon.com/">
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+</a>
+<a href="https://supabase.com/">
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
+</a>
+<a href="https://vercel.com/">
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
+</a>
+<a href="https://figma.com/">
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+</a>
 
-## 📞 Get In Touch
+## 📈 GitHub Stats
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:hello@sneyder.dev) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://sneyder.dev) [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/sneyderdev) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/sneyderdev)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true&langs_count=3" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true" alt="GitHub Stats" />
+</a>

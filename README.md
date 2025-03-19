@@ -12,5 +12,7 @@ These are some of the technologies and tools I use to build apps:
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true&langs_count=3" alt="Top Languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true" alt="GitHub Stats" />
+<a href="https://github.com/sneyderdev/sneyderdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true&langs_count=3" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true" alt="GitHub Stats" />
+</a>

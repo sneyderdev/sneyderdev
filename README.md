@@ -8,40 +8,9 @@ Nice to meet you, I'm Sneyder Barreto and I'm a Software Developer from <img ali
 
 These are some of the technologies and tools I use to build apps:
 
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
-</a>
-<a href="https://graphql.org/">
-  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL" />
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-</a>
-<a href="https://aws.amazon.com/">
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
-</a>
-<a href="https://supabase.com/">
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
-</a>
-<a href="https://vercel.com/">
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" />
-</a>
-<a href="https://figma.com/">
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
-</a>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true&langs_count=3" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true" alt="GitHub Stats" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true&langs_count=3" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneyderdev&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true" alt="GitHub Stats" />

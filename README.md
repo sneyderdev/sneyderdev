@@ -12,5 +12,6 @@ These are some of the technologies and tools I use to build apps:
 
 ## 📈 GitHub Stats
 
-![Top Languages](./profile/top-langs.svg)
-![Stats](./profile/stats.svg)
+<img src="./profile/stats.svg" alt="Stats" height="170" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
+
